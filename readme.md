@@ -1,3 +1,4 @@
 #HEAT MAP FOR PRODUCTS:
 ![alt text] [HEAT MAP]
-[HEAT MAP]: file:///C:/Users/vaish/git/HEATMAPS-PRODUCTS.github.io/HEATMAP.html
+[HEAT MAP]: https://github.com/Vaishnavi28/HEATMAPS-PRODUCTS.github.io/blob/master/HEATMAP.html
+
