@@ -1,4 +1,4 @@
-#HEAT MAP FOR PRODUCTS:
+HEAT MAP FOR PRODUCTS
 
 [HEAT MAP](https://github.com/Vaishnavi28/HEATMAPS-PRODUCTS.github.io/blob/master/HEATMAP.html)
 
